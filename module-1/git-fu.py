@@ -1,1 +1,1 @@
-print ('Hello world!')
+print ('Altered Hello world! message')
